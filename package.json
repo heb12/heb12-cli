@@ -1,5 +1,5 @@
 {
-  "name": "heb12",
+  "name": "heb12-cli",
   "version": "1.0.0",
   "description": "The command line version of Heb12",
   "repository": "https://github.com/heb12/heb12-cli",
@@ -11,7 +11,7 @@
   "author": "Heb12 Bible Apps",
   "license": "MIT",
   "bin": {
-    "openbibles": "./index.js"
+    "heb12": "./index.js"
   },
   "dependencies": {
     "chalk": "^2.4.1",
