@@ -1,10 +1,10 @@
 # Heb12 CLI
-The CLI version of Heb12. Built by Adam Denoon as a wrapper for openbibles. 
+The CLI version of Heb12. Built by Adam Denoon as a wrapper for openbibles.
 
 ## Installation
 
 ```
-npm install -g heb12
+npm install -g heb12-cli
 ```
 
 ## Usage
