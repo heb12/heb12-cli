@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-var bible = require('openbibles');
-var program = require('commander');
-var chalk = require('chalk');
+const bible = require('openbibles');
+const program = require('commander');
+const chalk = require('chalk');
 
 program
 	.arguments('<reference>')

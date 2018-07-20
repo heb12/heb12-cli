@@ -1,14 +1,14 @@
 {
-  "name": "openbibles-cli",
+  "name": "heb12",
   "version": "1.0.0",
-  "description": "A command-line utility for the OpenBibles module",
-  "repository": "https://github.com/AdamDenoon/openbibles-cli",
+  "description": "The command line version of Heb12",
+  "repository": "https://github.com/heb12/heb12-cli",
   "keywords": ["open","bible","bibles","scripture","study","books","reading"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Adam Denoon",
+  "author": "Heb12 Bible Apps",
   "license": "MIT",
   "bin": {
     "openbibles": "./index.js"
