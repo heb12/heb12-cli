@@ -1,4 +1,7 @@
 # Heb12 CLI
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/heb12/heb12-cli.svg)](https://greenkeeper.io/)
+
 The CLI version of Heb12. Built by Adam Denoon as a wrapper for openbibles.
 
 ## Installation
